@@ -7,7 +7,7 @@ use App\Models\Store;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Stores\StoreExcel;
 use App\Repositories\StoresRepository;
-use Illuminate\Http\Request;
+
 
 use Excel;
 
